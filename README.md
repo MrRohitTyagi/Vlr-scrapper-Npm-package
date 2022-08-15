@@ -1,3 +1,5 @@
+ Npm package link : https://www.npmjs.com/package/valorant-esports-data-scrapper
+
 # Vlr-scrapper-Npm-package
 
 const valorant_Scrapper = require('valorant-esports-data-scrapper')
